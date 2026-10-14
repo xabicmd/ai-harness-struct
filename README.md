@@ -1,6 +1,6 @@
 # Plantilla Portátil "AI Harness" (Augmented Spec-Driven Development)
 
-Este paquete contiene la **plantilla portátil de "AI Harness"** (basada en `lidr-specboot`, del programa AI4Devs de LIDR.co) para desarrollo guiado por especificaciones (_Augmented Spec-Driven Development_).
+Este paquete contiene la **plantilla portátil de "AI Harness"** para desarrollo guiado por especificaciones (_Augmented Spec-Driven Development_).
 
 Sirve para inyectarse en cualquier proyecto y obligar a cualquier asistente de IA (Claude, Cursor, Gemini, Copilot) a seguir reglas estrictas de arquitectura, TDD y flujos de trabajo sin inventar ni saltarse pasos.
 
